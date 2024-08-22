@@ -1,0 +1,5 @@
+# Cabal build location.
+/dist-newstyle
+
+# Apple Desktop Services Store.
+.DS_Store
